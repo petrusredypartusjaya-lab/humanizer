@@ -70,7 +70,15 @@ To match your personal writing style, provide a sample of your own writing:
 /humanizer
 
 Here's a sample of my writing for voice matching:
-[paste 2-3 paragraphs of your own writing]
+[]/humanizer
+
+Here's a sample of my writing for voice matching:
+[/humanizer
+
+Here's a sample of my writing for voice matching:
+[
+
+Dari segala kemudahan AI saat ini, saya jadi terdorong untuk berefleksi tentang BELAJAR. Belajar, dalam lanskap kemudahan yang ditawarkan oleh teknologi AI, justru menuntut saya untuk mendekonstruksi maknanya secara ontologis, epistemologis, dan aksiologis. Apa itu belajar? Bagaimana proses belajar itu terjadi? Dan untuk apa sebenarnya saya belajar? Jika belajar direduksi sekadar menjadi aktivitas mencari dan mengumpulkan pengetahuan, mendengarkan otoritas guru atau dosen, serta diukur melalui standar-standar eksternal—terlebih yang berorientasi pada kebutuhan industri—maka belajar kehilangan esensinya dan berpotensi menjadi aktivitas yang hampa. Hakikat belajar bukanlah akumulasi pengetahuan, melainkan proses reflektif yang terus-menerus: mempertanyakan bagaimana pikiran bekerja, menyadari batas-batasnya, dan menegaskan kembali tujuan keberadaan diri dalam belajar itu sendiri. Dengan demikian, belajar bukan sekadar mengetahui dunia, tetapi juga memahami cara saya mengetahui, sekaligus mempertanyakan untuk apa pengetahuan itu dihadirkan dalam hidup saya.]
 
 Now humanize this text:
 [paste AI text to humanize]
